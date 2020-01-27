@@ -1,0 +1,56 @@
+
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+body{
+background-color: #026cac;
+}
+
+.textCenter{
+	text-align: center;
+}
+
+.myText{
+	background-color: #026cac;
+	border-top: none;
+	border-left: none;
+	border-right:none;
+	font-size: 12px;
+	color: #ffffff;
+}
+
+.marginAll{
+    margin: 10px
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.buttons{
+	border-radius: 8px;
+	font-size: 20px;
+	font-style: bold;
+	background-color: #01579B;
+	border: none; color: #ffffff;
+	margin-top: 10px;
+	height: 45px; width: 100%; 
+	margin-bottom: 20px
+}
+
+h1{
+	padding: 20px;
+	size: 30px;
+	font-style: bold;
+	font-size: 20px;
+	color:#ffffff;
+    align-self: center;
+}
+p{
+	font-size: 15px;
+	align-content: flex-start;
+	color: #ffffff;
+
+}

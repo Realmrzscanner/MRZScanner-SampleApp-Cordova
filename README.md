@@ -1,0 +1,1 @@
+# MRZScanner-SampleApp-Cordova
